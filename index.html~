@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <link rel="stylesheet" href="portfolio.css">
+   <title>My introduction page</title>
+</head>
+
+<body>
+   <h1>Parker Scott Eldredge</h1>
+   <img src="picture.jpg" width="20%" height="20%">
+
+   <p>I'm a photography major from Pleasant Grove, Utah. I'm happily married to the most beautiful girl i've ever set eyes on. We have the cutest cat named Pepper. I have about two years left at BYU before I hopefully get accepted to grad school where I will work on my Masters in Fine Arts.</p>
+
+</body>
+</html>
