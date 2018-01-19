@@ -1,9 +1,16 @@
-ul {
-   list-style-type: none;
-   margin: 0;
-   padding:0;
+body {
+font-family: sans-serif;
 }
 
-li {
-   display: inline;
+nav li {
+    display: inline;    
 }
+
+a {
+  color: black;
+}
+
+a:hover {
+	color: #4286f4;
+}
+
